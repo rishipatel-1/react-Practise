@@ -1,0 +1,32 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    height: 40rem;
+    background-color:whitesmoke;
+    width: 30rem;
+}
+
+img{
+    width: 10px;
+    position: absolute;
+    top: 94%;
+    border-radius: 40px;
+    width: 70px;
+    height: 70px;
+}
+img:hover{
+   cursor: pointer;
+}
+.inputElement{
+ 
+    position: absolute;
+    top: 100%;
+    border-radius: 40px;
+    border: none;
+    height: 2.5rem;
+
+}
